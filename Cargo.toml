@@ -1,0 +1,11 @@
+[package]
+name = "aio_event"
+description = "A tokio event like asyncio event in python"
+version = "0.1.0"
+edition = "2021"
+authors = ["thedtvn"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+tokio = { version = "*", features = ["sync"] }
