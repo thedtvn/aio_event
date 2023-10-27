@@ -4,6 +4,9 @@ description = "A tokio event like asyncio event in python"
 version = "0.1.0"
 edition = "2021"
 authors = ["thedtvn"]
+homepage = "https://github.com/thedtvn/aio_event"
+repository = "https://github.com/thedtvn/aio_event"
+license = "Apache-2.0"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
